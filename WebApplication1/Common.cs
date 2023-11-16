@@ -2,7 +2,7 @@
 {
     public class Common
     {
-        int a=0;
+        //a deleted
         int b = 12;
        
     }
