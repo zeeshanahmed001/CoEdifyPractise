@@ -4,6 +4,7 @@
     {
         //a deleted
         int b = 12;
+        int d = 13;
        
     }
 }
