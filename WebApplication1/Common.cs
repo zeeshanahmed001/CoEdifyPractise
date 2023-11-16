@@ -4,7 +4,11 @@
     {
         //a deleted
         int b = 12;
+<<<<<<< HEAD
         int d = 13;
+=======
+        int c = 13;
+>>>>>>> main
        
     }
 }
